@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.MainDiv{
+   background-color: white;
+   width: 1000;
+   height: 1000;
+}
+
+.FanFavorites{
+    position: relative;
+    left: 1100px;
+
+}
+
+.backDiv{
+    background-color: black;
+    width: 300px;
+    height: 100vh;
+
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 20px 200px;
+}
+.product{
+    width: 250px;
+    border:1px solid #ccc ;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+
+.product img{
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+}
+
+.projuct h2{
+    color: white;
+    margin-top: 10px;
+} 
+
+.product p{
+    color: white;
+    margin-top: 10px;
+
+}
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+    padding: 25px 210px;
+    display: block;
+    font-size: 20px;
+}
+
+h1{
+    font-size: 50px;
+    position: relative;
+    left: 1100px;
+    color:goldenrod;
+}
+h2{
+    color: white;
+}
